@@ -34,7 +34,7 @@ This model can firther be improved by testing all the parameters and trying to f
 <br><br>
 See notebook on:<br>
 Kaggle : https://www.kaggle.com/code/kunwarakash/eda-and-model-training-with-auroc-score-of-96-1 <br><br>
-Deepnote : https://deepnote.com/@akashkunwar/https://deepnote.com/workspace/akashkunwar-24eb70be-4d95-4113-b8f0-3fa2332b09c7/project/Credit-card-fraud-detection-ba0c37d8-ec4c-4988-adfb-1c7e2a18e87b/notebook/Credit_Card_Fraud_Detection-20220830-021227-3b55e273b6d64e72a68f386bc2980f8b <br><br>
+Deepnote : https://deepnote.com/@akashkunwar/Credit-card-fraud-detection-ba0c37d8-ec4c-4988-adfb-1c7e2a18e87b <br><br>
 My Github reposatory of this project : https://github.com/Akashkunwar/credit-card-fraud-detection
 
 Thanks...
